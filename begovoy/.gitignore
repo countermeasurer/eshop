@@ -1,0 +1,12 @@
+#python stuff
+venv/
+.pylintrc
+__pycache__/
+.settings
+
+#ide stuff
+.idea
+
+#django stuff
+db.sqllite3
+media/
